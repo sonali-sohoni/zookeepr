@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Samoa",
+      "species": "Elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
